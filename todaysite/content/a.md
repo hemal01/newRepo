@@ -6,4 +6,4 @@ title = "A"
 
 +++
 
-This is b
+This is new content
